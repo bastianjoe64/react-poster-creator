@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import CreatePosterForm from './components/CreatePosterForm';
-import Poster from './components/Poster';
+import CreatePosterForm from './components/CreatePosterForm/CreatePosterForm';
+import Poster from './components/Poster/Poster';
 
 class App extends Component {
   state = {
